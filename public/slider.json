@@ -2,31 +2,31 @@
   {
     "id": 1,
     "image": "https://images.pexels.com/photos/10986252/pexels-photo-10986252.jpeg",
-    "heading": "Master Your Focus",
-    "subtext": "Learn science-backed strategies to stay distraction-free and get more done."
+    "heading": "মনোযোগকে নিয়ন্ত্রণ করুন",
+    "subtext": "বিরক্তি ছাড়া কাজ করতে শিখুন এবং প্রতিদিন আরও বেশি অর্জন করুন।"
   },
   {
     "id": 2,
     "image": "https://png.pngtree.com/thumb_back/fw800/background/20220621/pngtree-on-a-wooden-table-vintage-books-a-cup-of-coffee-preserved-flowers-and-burning-candles-photo-image_47213080.jpg",
-    "heading": "Build Strong Habits",
-    "subtext": "Turn small daily actions into long-term progress and life transformation."
+    "heading": "দৈনন্দিন অভ্যাস গড়ে তুলুন",
+    "subtext": "ছোট ছোট অভ্যাসগুলোকে জীবনের বড় পরিবর্তনে পরিণত করুন।"
   },
   {
     "id": 3,
     "image": "https://img.freepik.com/free-photo/flat-lay-bookmark-books-assortment_23-2149894329.jpg?semt=ais_hybrid&w=740&q=80",
-    "heading": "Control Your Time",
-    "subtext": "Use simple time management frameworks to structure your day with intention."
+    "heading": "সময়কে হাতে নিন",
+    "subtext": "সহজ পরিকল্পনার মাধ্যমে প্রতিটি দিনকে উদ্দেশ্যপূর্ণ করুন।"
   },
-    {
+  {
     "id": 4,
     "image": "https://img.freepik.com/free-photo/high-angle-book-arrangement-wooden-table_23-2148328291.jpg?semt=ais_hybrid&w=740&q=80",
-    "heading": "Tools That Enhance Productivity",
-    "subtext": "Discover the best apps and systems to streamline your workflow."
+    "heading": "কাজের গতি বাড়াতে",
+    "subtext": "সেরা অ্যাপ ও সিস্টেমগুলো ব্যবহার করে আপনার workflow সহজ করুন।"
   },
   {
     "id": 5,
     "image": "https://media.istockphoto.com/id/859591378/photo/coffee-and-book.jpg?s=612x612&w=0&k=20&c=ovISonm_ZpwA3CgDuty2LGewEDDjcuc8yiFnuRBp8hQ=",
-    "heading": "Deep Work Mindset",
-    "subtext": "Unlock deep focus and produce high-quality work consistently."
+    "heading": "গভীর মনোযোগের শক্তি",
+    "subtext": "গভীর মনোযোগ দিয়ে ধারাবাহিকভাবে মানসম্মত কাজ করুন।"
   }
 ]

@@ -8,10 +8,10 @@ const HomeBlog = () => {
                 {/* Hero Section */}
                 <div className="text-center mb-16">
                     <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
-                        Welcome to <span className="text-red-300">Our Latest Posts</span>
+                        আমাদের সাম্প্রতিক পোস্টগুলিতে  <span className="text-red-300">স্বাগতম</span>
                     </h1>
                     <p className="text-gray-500 text-lg max-w-2xl mx-auto">
-                        Thoughts, reflections, and lessons on books, focus, and mindful living.
+                       বই, মনন ও সচেতন জীবনধারার গল্প ও অভিজ্ঞতা
                     </p>
                 </div>
 

@@ -52,10 +52,10 @@ const CourseSection = () => {
       {/* Heading */}
       <div className="text-center mb-12">
         <h2 className="text-4xl font-bold text-gray-800 mb-3">
-          Our Popular <span className="text-blue-600">Courses</span>
+          আমাদের জনপ্রিয়   <span className="text-red-300">কোর্সসমূহ</span>
         </h2>
         <p className="text-gray-500 max-w-2xl mx-auto">
-          Learn practical skills and grow your career with our hand-picked online courses.
+          আজই শিখুন, আগামিকাল এগিয়ে যান।
         </p>
       </div>
 
@@ -82,7 +82,7 @@ const CourseSection = () => {
               </div>
               <div className="flex justify-between items-center">
                 <span className="font-semibold text-blue-600">{course.price}</span>
-                <button className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-all shadow-sm">
+                <button className="px-4 py-2 bg-red-300 text-white rounded-lg hover:bg-red-400 transition-all shadow-sm">
                   Buy Course
                 </button>
               </div>

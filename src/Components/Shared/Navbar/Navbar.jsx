@@ -1,28 +1,35 @@
 import React from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import './Navbar.css'
+import { IoIosNotifications } from "react-icons/io";
+
 
 const Navbar = () => {
     const navlinks = <>
         <li>
-            <NavLink to="/">Home</NavLink>
+            <NavLink to="/">হোম</NavLink>
         </li>
         <li>
-            <NavLink to="/courses">Courses</NavLink>
+            <NavLink to="">আর্টিকেল</NavLink>
         </li>
         <li>
-            <NavLink to="/shop">Shop</NavLink>
+            <NavLink to="/courses">কোর্স</NavLink>
         </li>
         <li>
-            <NavLink to="/review-feed">Review Feed</NavLink>
+            <NavLink to="/shop">শপ</NavLink>
         </li>
         <li>
-            <NavLink to="/">Submit Writing</NavLink>
+            <NavLink to="/review-feed">রিভিউ ফিড </NavLink>
         </li>
         <li>
-            <NavLink to="/">Pathoker Motamot</NavLink>
+            <NavLink to="/">লেখা জমাদিন </NavLink>
         </li>
-       
+        <li>
+            <NavLink to="/">পাঠকের মতামত</NavLink>
+        </li>
+
+
+
 
 
     </>
@@ -50,7 +57,7 @@ const Navbar = () => {
                         {navlinks}
                     </ul>
                 </div>
-                <a className="btn btn-ghost text-xl">Porte Valobashi</a>
+                <a className="btn btn-ghost text-xl">পড়তে ভালবাসি </a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
@@ -58,7 +65,9 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <Link to="/login" className="btn">Login</Link>
+                <Link> <IoIosNotifications className='text-2xl mr-4' color='red'></IoIosNotifications>
+                </Link>
+                <Link to="/login" className="btn">লগিন</Link>
             </div>
         </div>
     );

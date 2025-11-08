@@ -35,10 +35,11 @@ const Banner = () => {
                         >
                             <div className="hero-overlay bg-opacity-60"></div>
                             <div className="text-center text-neutral-content">
-                                <div className="max-w-md">
+                                <div className="max-w-lg">
                                     <h1 className="mb-5 text-5xl font-bold">{slide.heading}</h1>
                                     <p className="mb-5">{slide.subtext}</p>
-                                    <button className="btn">Get Started</button>
+                                    <button className="btn mr-2">আর্টিকেল</button>
+                                    <button className="btn">কোর্সসমূহ </button>
                                 </div>
                             </div>
                         </div>
