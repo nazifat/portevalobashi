@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Default bullet color */
+.swiper-pagination-bullet {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  margin: 0 6px !important;
+  color: peru;
+}
+
+/* Active bullet color */
+.swiper-pagination-bullet-active {
+  background-color: palevioletred; /* Tailwind 'blue-600' */
+  opacity: 1;
+}

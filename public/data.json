@@ -1,0 +1,82 @@
+[
+  {
+    "title": "How to Build a Morning Routine That Actually Sticks",
+    "slug": "build-a-morning-routine",
+    "tags": ["productivity", "morning routine", "habits"],
+    "featured_image": "https://example.com/images/morning-routine.jpg",
+    "date": "2025-02-14",
+    "author": "Alex Carter",
+    "read_time": "6 min",
+    "description": "Discover simple methods to design a morning routine that boosts focus, energy, and motivation.",
+    "content_outline": [
+      "Why a morning routine matters",
+      "How to choose meaningful habits",
+      "Start small and scale slowly",
+      "Track progress without burnout"
+    ]
+  },
+  {
+    "title": "Deep Work: The Secret to Unlocking High-Quality Output",
+    "slug": "deep-work-focus",
+    "tags": ["focus", "mindset", "deep work"],
+    "featured_image": "https://example.com/images/deep-work.jpg",
+    "date": "2025-02-09",
+    "author": "Sophie Lane",
+    "read_time": "8 min",
+    "description": "Learn how to eliminate distractions and unlock deep focus to improve work quality.",
+    "content_outline": [
+      "What deep work means",
+      "Understanding attention residue",
+      "Removing digital distractions",
+      "Creating blocks of uninterrupted work"
+    ]
+  },
+  {
+    "title": "5 Productivity Tools You Should Start Using Today",
+    "slug": "top-productivity-tools",
+    "tags": ["productivity tools", "apps", "workflow"],
+    "featured_image": "https://example.com/images/tools.jpg",
+    "date": "2025-01-29",
+    "author": "Nathan Ross",
+    "read_time": "5 min",
+    "description": "A curated list of powerful tools to manage tasks, track habits, and stay focused.",
+    "content_outline": [
+      "Task management apps",
+      "Time tracking tools",
+      "Focus enhancement tools",
+      "Automation tools"
+    ]
+  },
+  {
+    "title": "The Science of Habit Formation and How to Use It",
+    "slug": "science-of-habits",
+    "tags": ["habits", "self-improvement", "psychology"],
+    "featured_image": "https://example.com/images/habits.jpg",
+    "date": "2025-01-15",
+    "author": "Emily Green",
+    "read_time": "7 min",
+    "description": "Understand the cue-action-reward loop and learn how to create positive habits that last.",
+    "content_outline": [
+      "How habits are formed",
+      "Breaking bad habit loops",
+      "Stacking new habits",
+      "Reward-based reinforcement"
+    ]
+  },
+  {
+    "title": "Time Blocking: A Simple Strategy to Stay Organized",
+    "slug": "time-blocking-method",
+    "tags": ["time management", "organization", "planning"],
+    "featured_image": "https://example.com/images/time-blocking.jpg",
+    "date": "2024-12-30",
+    "author": "Alex Carter",
+    "read_time": "6 min",
+    "description": "Learn how time-blocking can help you plan your day more intentionally and avoid overwhelm.",
+    "content_outline": [
+      "What is time-blocking?",
+      "How to set up your day",
+      "Balancing work and rest",
+      "Common mistakes to avoid"
+    ]
+  }
+]

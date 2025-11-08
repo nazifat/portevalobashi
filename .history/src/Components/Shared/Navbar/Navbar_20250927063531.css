@@ -1,0 +1,4 @@
+.custom-navbar ul li a.active {
+  text-decoration: underline;
+  color: brown;
+}

@@ -1,0 +1,5 @@
+.custom-navbar a.active {
+  text-decoration: underline;
+  color: brown;
+  background-color: red;
+}

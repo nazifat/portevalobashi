@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2MTdAbmZlaf0Upgxi8XQj6pB34fo7bwtQyQ&s",
+    "heading": "Master Your Focus",
+    "subtext": "Learn science-backed strategies to stay distraction-free and get more done."
+  },
+  {
+    "id": 2,
+    "image": "https://www.shutterstock.com/shutterstock/videos/1050633178/thumb/6.jpg?ip=x480",
+    "heading": "Build Strong Habits",
+    "subtext": "Turn small daily actions into long-term progress and life transformation."
+  },
+  {
+    "id": 3,
+    "image": "https://example.com/images/time-management.jpg",
+    "heading": "Control Your Time",
+    "subtext": "Use simple time management frameworks to structure your day with intention."
+  },
+  {
+    "id": 4,
+    "image": "https://example.com/images/deep-work.jpg",
+    "heading": "Deep Work Mindset",
+    "subtext": "Unlock deep focus and produce high-quality work consistently."
+  },
+  {
+    "id": 5,
+    "image": "https://example.com/images/productivity-tools.jpg",
+    "heading": "Tools That Enhance Productivity",
+    "subtext": "Discover the best apps and systems to streamline your workflow."
+  }
+]
