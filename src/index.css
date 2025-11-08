@@ -15,3 +15,7 @@
   background-color: palevioletred !important; /* Tailwind 'blue-600' */
   opacity: 1;
 }
+
+p, h1, h2, h3, h4, h5, h6, div, span, a, li, button, input, textarea, select, label, section, article ,header, footer, nav {
+  font-family: 'kalpurush', 'Roboto', sans-serif;
+}
