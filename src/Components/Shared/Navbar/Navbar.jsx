@@ -57,7 +57,16 @@ const Navbar = () => {
                         {navlinks}
                     </ul>
                 </div>
-                <a className="btn btn-ghost text-xl">পড়তে ভালবাসি </a>
+                {/* <a className="btn btn-ghost text-xl">পড়তে ভালবাসি </a> */}
+                <div className="flex items-center justify-center md:justify-start">
+                    <img
+                        src="https://i.ibb.co/4wtwHFmK/Porte-Valobashi-Bookstore-Logo-with-Slogan.png"
+                        alt="Porte Valobashi Bookstore Logo"
+                        className="w-32 sm:w-40 md:w-48 lg:w-56 h-[70px] object-contain"
+                    />
+                </div>
+
+
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">

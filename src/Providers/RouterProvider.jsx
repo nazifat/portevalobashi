@@ -8,6 +8,8 @@ import Login from "../Pages/Login/Login";
 import Registration from "../Pages/Registration/Registration";
 import Courses from "../Pages/Courses/Courses";
 import Blog from "../Pages/Blog/Blog";
+import ShopPage from "../Pages/ShopPage/ShopPage";
+import ReviewFeed from "../Pages/ReviewFeed/ReviewFeed";
 
 
 export const router = createBrowserRouter([
@@ -37,6 +39,14 @@ export const router = createBrowserRouter([
             {
                 path: "/blog",
                 element: <Blog></Blog>
+            },
+            {
+                path: "/shop",
+                element: <ShopPage></ShopPage>
+            },
+            {
+                path: "review-feed",
+                element: <ReviewFeed></ReviewFeed>
             }
 
         ]

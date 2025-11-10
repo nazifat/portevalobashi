@@ -1,82 +1,82 @@
 [
   {
-    "title": "How to Build a Morning Routine That Actually Sticks",
+    "title": "একটি সকালের রুটিন তৈরি করুন যা সত্যিই টিকে থাকবে",
     "slug": "build-a-morning-routine",
-    "tags": ["productivity", "morning routine", "habits"],
+    "tags": ["উৎপাদনশীলতা", "সকালের রুটিন", "অভ্যাস"],
     "featured_image": "https://example.com/images/morning-routine.jpg",
     "date": "2025-02-14",
-    "author": "Alex Carter",
-    "read_time": "6 min",
-    "description": "Discover simple methods to design a morning routine that boosts focus, energy, and motivation.",
+    "author": "অ্যালেক্স কার্টার",
+    "read_time": "৬ মিনিট",
+    "description": "মনোযোগ, শক্তি ও অনুপ্রেরণা বাড়াতে সাহায্য করে এমন একটি কার্যকর সকালের রুটিন তৈরির সহজ উপায় জানুন।",
     "content_outline": [
-      "Why a morning routine matters",
-      "How to choose meaningful habits",
-      "Start small and scale slowly",
-      "Track progress without burnout"
+      "সকালের রুটিন কেন গুরুত্বপূর্ণ",
+      "অর্থবহ অভ্যাস কীভাবে বেছে নেবেন",
+      "ছোট থেকে শুরু করে ধীরে ধীরে বৃদ্ধি",
+      "বার্নআউট ছাড়া অগ্রগতি ট্র্যাক করুন"
     ]
   },
   {
-    "title": "Deep Work: The Secret to Unlocking High-Quality Output",
+    "title": "ডিপ ওয়ার্ক: উচ্চমানের কাজের গোপন রহস্য",
     "slug": "deep-work-focus",
-    "tags": ["focus", "mindset", "deep work"],
+    "tags": ["মনোযোগ", "মানসিকতা", "ডিপ ওয়ার্ক"],
     "featured_image": "https://example.com/images/deep-work.jpg",
     "date": "2025-02-09",
-    "author": "Sophie Lane",
-    "read_time": "8 min",
-    "description": "Learn how to eliminate distractions and unlock deep focus to improve work quality.",
+    "author": "সোফি লেন",
+    "read_time": "৮ মিনিট",
+    "description": "বিক্ষিপ্ততা দূর করে গভীর মনোযোগের মাধ্যমে কাজের মান কীভাবে উন্নত করা যায় তা জানুন।",
     "content_outline": [
-      "What deep work means",
-      "Understanding attention residue",
-      "Removing digital distractions",
-      "Creating blocks of uninterrupted work"
+      "ডিপ ওয়ার্ক বলতে কী বোঝায়",
+      "অ্যাটেনশন রেসিডিউ বা মনোযোগের অবশিষ্টাংশ বুঝুন",
+      "ডিজিটাল বিক্ষিপ্ততা দূর করা",
+      "নিরবচ্ছিন্ন কাজের ব্লক তৈরি করা"
     ]
   },
   {
-    "title": "5 Productivity Tools You Should Start Using Today",
+    "title": "আজই ব্যবহার শুরু করুন ৫টি উৎপাদনশীলতা টুল",
     "slug": "top-productivity-tools",
-    "tags": ["productivity tools", "apps", "workflow"],
+    "tags": ["উৎপাদনশীলতা টুল", "অ্যাপ", "ওয়ার্কফ্লো"],
     "featured_image": "https://example.com/images/tools.jpg",
     "date": "2025-01-29",
-    "author": "Nathan Ross",
-    "read_time": "5 min",
-    "description": "A curated list of powerful tools to manage tasks, track habits, and stay focused.",
+    "author": "নাথান রস",
+    "read_time": "৫ মিনিট",
+    "description": "টাস্ক ম্যানেজমেন্ট, অভ্যাস ট্র্যাকিং ও মনোযোগ ধরে রাখার জন্য সেরা কিছু টুলের তালিকা।",
     "content_outline": [
-      "Task management apps",
-      "Time tracking tools",
-      "Focus enhancement tools",
-      "Automation tools"
+      "টাস্ক ম্যানেজমেন্ট অ্যাপস",
+      "টাইম ট্র্যাকিং টুলস",
+      "মনোযোগ বাড়ানোর টুলস",
+      "অটোমেশন টুলস"
     ]
   },
   {
-    "title": "The Science of Habit Formation and How to Use It",
+    "title": "অভ্যাস গঠনের বিজ্ঞান এবং এর ব্যবহার",
     "slug": "science-of-habits",
-    "tags": ["habits", "self-improvement", "psychology"],
+    "tags": ["অভ্যাস", "স্ব-উন্নয়ন", "মনোবিজ্ঞান"],
     "featured_image": "https://example.com/images/habits.jpg",
     "date": "2025-01-15",
-    "author": "Emily Green",
-    "read_time": "7 min",
-    "description": "Understand the cue-action-reward loop and learn how to create positive habits that last.",
+    "author": "এমিলি গ্রিন",
+    "read_time": "৭ মিনিট",
+    "description": "কিউ-অ্যাকশন-রিওয়ার্ড লুপ সম্পর্কে জানুন এবং স্থায়ী ভালো অভ্যাস গঠনের কৌশল শিখুন।",
     "content_outline": [
-      "How habits are formed",
-      "Breaking bad habit loops",
-      "Stacking new habits",
-      "Reward-based reinforcement"
+      "অভ্যাস কীভাবে গঠিত হয়",
+      "খারাপ অভ্যাস ভাঙার উপায়",
+      "নতুন অভ্যাস যুক্ত করা (হ্যাবিট স্ট্যাকিং)",
+      "পুরস্কার-ভিত্তিক অনুপ্রেরণা"
     ]
   },
   {
-    "title": "Time Blocking: A Simple Strategy to Stay Organized",
+    "title": "টাইম ব্লকিং: সংগঠিত থাকার সহজ কৌশল",
     "slug": "time-blocking-method",
-    "tags": ["time management", "organization", "planning"],
+    "tags": ["সময় ব্যবস্থাপনা", "সংগঠন", "পরিকল্পনা"],
     "featured_image": "https://example.com/images/time-blocking.jpg",
     "date": "2024-12-30",
-    "author": "Alex Carter",
-    "read_time": "6 min",
-    "description": "Learn how time-blocking can help you plan your day more intentionally and avoid overwhelm.",
+    "author": "অ্যালেক্স কার্টার",
+    "read_time": "৬ মিনিট",
+    "description": "দিনটিকে উদ্দেশ্যপূর্ণভাবে পরিকল্পনা করে ওভারওয়েল্ম এড়াতে টাইম ব্লকিং কীভাবে সাহায্য করে তা জানুন।",
     "content_outline": [
-      "What is time-blocking?",
-      "How to set up your day",
-      "Balancing work and rest",
-      "Common mistakes to avoid"
+      "টাইম ব্লকিং কী?",
+      "দিনের পরিকল্পনা কীভাবে করবেন",
+      "কাজ ও বিশ্রামের ভারসাম্য",
+      "সাধারণ ভুলগুলো এড়িয়ে চলুন"
     ]
   }
 ]

@@ -4,47 +4,48 @@ import { motion } from "framer-motion";
 const courses = [
   {
     id: 1,
-    title: "Mastering React from Scratch",
-    desc: "Learn to build fast, modern web apps using React and Tailwind CSS.",
+    title: "শূন্য থেকে রিঅ্যাক্ট মাস্টারি করুন",
+    desc: "React এবং Tailwind CSS ব্যবহার করে দ্রুত ও আধুনিক ওয়েব অ্যাপ তৈরি করতে শিখুন।",
     image: "https://source.unsplash.com/random/800x600?react",
-    price: "৳1999",
+    price: "৳১৯৯৯",
   },
   {
     id: 2,
-    title: "The Complete JavaScript Course",
-    desc: "Deep dive into JS — from basics to advanced topics like async and ES6.",
+    title: "সম্পূর্ণ জাভাস্ক্রিপ্ট কোর্স",
+    desc: "JS-এর বেসিক থেকে শুরু করে async এবং ES6-এর মতো উন্নত টপিক পর্যন্ত গভীরভাবে শিখুন।",
     image: "https://source.unsplash.com/random/800x600?javascript",
-    price: "৳1499",
+    price: "৳১৪৯৯",
   },
   {
     id: 3,
-    title: "UI/UX Design for Beginners",
-    desc: "Learn the art of creating beautiful, user-friendly designs.",
+    title: "শুরুর জন্য UI/UX ডিজাইন",
+    desc: "সুন্দর ও ব্যবহারবান্ধব ডিজাইন তৈরির কৌশল শিখুন।",
     image: "https://source.unsplash.com/random/800x600?design",
-    price: "৳999",
+    price: "৳৯৯৯",
   },
   {
     id: 4,
-    title: "MERN Stack Crash Course",
-    desc: "Build full-stack applications using MongoDB, Express, React, and Node.",
+    title: "MERN স্ট্যাক ক্র্যাশ কোর্স",
+    desc: "MongoDB, Express, React এবং Node ব্যবহার করে ফুল-স্ট্যাক অ্যাপ্লিকেশন তৈরি করুন।",
     image: "https://source.unsplash.com/random/800x600?coding",
-    price: "৳2499",
+    price: "৳২৪৯৯",
   },
   {
     id: 5,
-    title: "Digital Declutter & Focus",
-    desc: "Simplify your digital life and stay productive every day.",
+    title: "ডিজিটাল ডিক্লাটার ও ফোকাস",
+    desc: "ডিজিটাল জীবনে অপ্রয়োজনীয়তা কমিয়ে প্রতিদিন উৎপাদনশীল থাকুন।",
     image: "https://source.unsplash.com/random/800x600?focus",
-    price: "৳799",
+    price: "৳৭৯৯",
   },
   {
     id: 6,
-    title: "Personal Branding & Content Writing",
-    desc: "Grow your personal brand with storytelling and content strategy.",
+    title: "পার্সোনাল ব্র্যান্ডিং ও কনটেন্ট রাইটিং",
+    desc: "স্টোরিটেলিং ও কনটেন্ট স্ট্র্যাটেজির মাধ্যমে নিজের ব্যক্তিগত ব্র্যান্ড গড়ে তুলুন।",
     image: "https://source.unsplash.com/random/800x600?writing",
-    price: "৳1299",
+    price: "৳১২৯৯",
   },
 ];
+
 
 const CourseSection = () => {
   return (

@@ -10,41 +10,42 @@ import 'swiper/css/navigation';
 const quotes = [
   {
     id: 1,
-    quote: "The only way to do great work is to love what you do.",
-    author: "Steve Jobs",
-    book: "The Innovation Secrets of Steve Jobs",
+    quote: "দারুণ কিছু করার একমাত্র উপায় হলো, তুমি যা করছো তা ভালোবাসা।",
+    author: "স্টিভ জবস",
+    book: "দ্য ইনোভেশন সিক্রেটস অব স্টিভ জবস",
   },
   {
     id: 2,
-    quote: "It is not that we have a short time to live, but that we waste much of it.",
-    author: "Seneca",
-    book: "On the Shortness of Life",
+    quote: "আমাদের জীবনের সময় কম নয়, বরং আমরা তার অনেকটাই অপচয় করি।",
+    author: "সেনেকা",
+    book: "অন দ্য শর্টনেস অব লাইফ",
   },
   {
     id: 3,
-    quote: "You become what you give your attention to.",
-    author: "Epictetus",
-    book: "Discourses and Selected Writings",
+    quote: "তুমি সেই মানুষে পরিণত হও, যার দিকে তুমি তোমার মনোযোগ দাও।",
+    author: "এপিকটিটাস",
+    book: "ডিসকোর্সেস অ্যান্ড সিলেক্টেড রাইটিংস",
   },
   {
     id: 4,
-    quote: "The more you know who you are and what you want, the less you let things upset you.",
-    author: "Sofia Coppola",
-    book: "Lost in Translation",
+    quote: "তুমি যত বেশি জানবে তুমি কে এবং কী চাও, তত কমই জিনিসগুলো তোমাকে বিরক্ত করবে।",
+    author: "সোফিয়া কপোলা",
+    book: "লস্ট ইন ট্রান্সলেশন",
   },
   {
     id: 5,
-    quote: "We suffer more in imagination than in reality.",
-    author: "Seneca",
-    book: "Letters from a Stoic",
+    quote: "আমরা বাস্তবতার চেয়ে কল্পনায় বেশি কষ্ট পাই।",
+    author: "সেনেকা",
+    book: "লেটারস ফ্রম আ স্টোইক",
   },
   {
     id: 6,
-    quote: "Your future is created by what you do today, not tomorrow.",
-    author: "Robert Kiyosaki",
-    book: "Rich Dad Poor Dad",
+    quote: "তোমার ভবিষ্যৎ তৈরি হয় আজ তুমি যা করছো তার দ্বারা, কাল যা করবে তার দ্বারা নয়।",
+    author: "রবার্ট কিয়োসাকি",
+    book: "রিচ ড্যাড পুওর ড্যাড",
   },
 ];
+
 
 const BookQuotesSlider = () => {
   return (
@@ -52,12 +53,13 @@ const BookQuotesSlider = () => {
       {/* Section Header */}
       <div className="text-center mb-10">
         <h2 className="text-4xl font-bold text-gray-800 mb-3">
-          <span className="text-blue-600">Quotes</span> from Books
+          বই থেকে <span className="text-blue-600">উক্তি</span>
         </h2>
         <p className="text-gray-500 max-w-2xl mx-auto">
-          Let wisdom from great books inspire your thoughts every day.
+          মহান বইগুলোর জ্ঞানে প্রতিদিন তোমার চিন্তাকে অনুপ্রাণিত হতে দাও।
         </p>
       </div>
+
 
       {/* Swiper Slider */}
       <Swiper

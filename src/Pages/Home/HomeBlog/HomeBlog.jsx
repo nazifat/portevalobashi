@@ -2,6 +2,8 @@ import blog from '/public/data.json'
 import { motion } from "framer-motion";
 
 const HomeBlog = () => {
+
+    
     return (
         <div>
             <div className="min-h-screen bg-gray-50 px-4 md:px-12 py-12">
