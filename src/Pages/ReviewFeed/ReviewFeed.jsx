@@ -59,7 +59,6 @@ const ReviewFeed = () => {
                 <h1 className="text-3xl font-extrabold text-gray-800 mb-8 text-center">
                     বই রিভিউ ফিড
                 </h1>
-
                 <div className="space-y-6">
                     {reviews.map((review) => (
                         <div
@@ -100,9 +99,28 @@ const ReviewFeed = () => {
                                     <p className="text-gray-700">{review.content}</p>
                                 </div>
                             </div>
+
+                            {/* Reactions & Comment */}
+                            <div className="flex items-center justify-between border-t border-gray-200 pt-3 mt-2">
+                                <div className="flex space-x-4 text-gray-500 text-sm">
+                                    <button className="flex items-center gap-1 hover:text-blue-500 transition">
+                                        👍 লাইক
+                                    </button>
+                                    <button className="flex items-center gap-1 hover:text-red-500 transition">
+                                        ❤️ ভালো লেগেছে
+                                    </button>
+                                    <button className="flex items-center gap-1 hover:text-yellow-500 transition">
+                                        😮 অবাক
+                                    </button>
+                                </div>
+                                <button className="text-gray-500 text-sm hover:text-blue-500 transition">
+                                    মন্তব্য
+                                </button>
+                            </div>
                         </div>
                     ))}
                 </div>
+
             </div>
         </div>
     );
