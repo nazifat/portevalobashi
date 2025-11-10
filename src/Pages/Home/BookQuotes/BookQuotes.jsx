@@ -53,7 +53,7 @@ const BookQuotesSlider = () => {
       {/* Section Header */}
       <div className="text-center mb-10">
         <h2 className="text-4xl font-bold text-gray-800 mb-3">
-          বই থেকে <span className="text-blue-600">উক্তি</span>
+          বই থেকে <span className="text-red-300">উক্তি</span>
         </h2>
         <p className="text-gray-500 max-w-2xl mx-auto">
           মহান বইগুলোর জ্ঞানে প্রতিদিন তোমার চিন্তাকে অনুপ্রাণিত হতে দাও।
@@ -81,7 +81,7 @@ const BookQuotesSlider = () => {
                 “{q.quote}”
               </p>
               <div>
-                <p className="font-semibold text-blue-600">{q.author}</p>
+                <p className="font-semibold text-red-300">{q.author}</p>
                 <p className="text-gray-400 text-sm">{q.book}</p>
               </div>
             </div>

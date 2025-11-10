@@ -24,9 +24,7 @@ const Navbar = () => {
         <li>
             <NavLink to="/">লেখা জমাদিন </NavLink>
         </li>
-        <li>
-            <NavLink to="/">পাঠকের মতামত</NavLink>
-        </li>
+       
 
 
 
@@ -58,13 +56,13 @@ const Navbar = () => {
                     </ul>
                 </div>
                 {/* <a className="btn btn-ghost text-xl">পড়তে ভালবাসি </a> */}
-                <div className="flex items-center justify-center md:justify-start">
+                <Link className="flex items-center justify-center md:justify-start" to="/">
                     <img
                         src="https://i.ibb.co/4wtwHFmK/Porte-Valobashi-Bookstore-Logo-with-Slogan.png"
                         alt="Porte Valobashi Bookstore Logo"
                         className="w-32 sm:w-40 md:w-48 lg:w-56 h-[70px] object-contain"
                     />
-                </div>
+                </Link>
 
 
             </div>
