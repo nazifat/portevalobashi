@@ -1,5 +1,9 @@
 .custom-navbar ul li .active {
   /* text-decoration: underline; */
-  color: brown;
-  background-color: pink;
+  color: palevioletred;
+  /* background-color: pink; */
+}
+
+.custom-navbar ul li{
+  font-size: large;
 }

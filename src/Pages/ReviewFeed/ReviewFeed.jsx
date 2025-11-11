@@ -3,6 +3,7 @@ import { FaStar } from "react-icons/fa";
 import SideBar from "./Sidebar/SideBar";
 import StatusInputBox from "./StatusInputBox/StatusInputBox";
 import BookReviewBox from "./BookReviewBox/BookReviewBox";
+import ReadingCongratsPopup from "../../Components/ReadingCongratsPopup/ReadingCongratsPopup";
 
 // Sample book reviews data
 const reviews = [
@@ -51,6 +52,7 @@ const reviews = [
 const ReviewFeed = () => {
     return (
         <div className="flex">
+            <ReadingCongratsPopup></ReadingCongratsPopup>
             <SideBar></SideBar>
 
             <div className="max-w-4xl mx-auto px-6 py-12">
